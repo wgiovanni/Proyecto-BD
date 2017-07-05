@@ -1,7 +1,7 @@
 # Proyecto-BD
 Proyecto de Bases de Datos :trollface:
 
-### [Manual de usuario](https://pipriles.github.io/Proyecto-BD/)
+### [Manual de usuario](https://github.com/wgiovanni/Proyecto-BD)
 
 Lo primero que aparece al abrir el programa es una ventana de login, en el cual el usuario es el mismo de postgres, este usuario pueder ser tanto administrador como trabajador pero programa se encargara de determinar que tipo de usuario es para el inicio de sesion adecuado.
 
